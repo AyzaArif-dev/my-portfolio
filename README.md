@@ -83,6 +83,4 @@ Computer Science Co-op Student
 Wilfrid Laurier University
 
 LinkedIn: www.linkedin.com/in/ayza-arif-rahim-a0379a2bb
-> Expected Graduation: 2028
 
-That reads more professionally to recruiters.
