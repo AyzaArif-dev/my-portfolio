@@ -47,7 +47,7 @@ I enjoy building projects that combine technical problem-solving with real-world
 * GitHub Pages
 
 ## Project Structure
-'''
+```
 portfolio/
 │
 ├── public/
@@ -62,7 +62,7 @@ portfolio/
 ├── package.json
 ├── vite.config.js
 └── README.md
-'''
+```
 
 ## Featured Projects
 
