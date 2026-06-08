@@ -1,12 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  images: {
-    unoptimized: true
-  },
-  basePath: '/my-portfolio',
-  assetPrefix: '/my-portfolio/'
-}
+  output: "export",
 
-export default nextConfig
+  trailingSlash: true,
+
+  images: {
+    unoptimized: true,
+  },
+
+  // REQUIRED for GitHub Pages project repo
+  basePath: "/my-portfolio",
+  assetPrefix: "/my-portfolio/",
+};
+
+export default nextConfig;
