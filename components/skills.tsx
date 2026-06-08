@@ -38,7 +38,7 @@ export function Skills() {
             Skills
           </h1>
           <p className="text-lg text-muted-foreground mb-6">
-            Tools of the trade.
+            Some of the things I have worked with.
           </p>
           <div className="w-16 h-px bg-primary" />
         </div>

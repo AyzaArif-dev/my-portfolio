@@ -22,9 +22,9 @@ const socialLinks = [
   },
   {
     name: "GitHub",
-    href: "https://github.com",
+    href: "https://github.com/AyzaArif-dev",
     icon: Github,
-    label: "github.com/ayza",
+    label: "github.com/AyzaArif-dev",
   },
 ]
 

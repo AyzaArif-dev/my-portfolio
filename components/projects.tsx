@@ -4,15 +4,59 @@ import { ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
+    title: "Sales & EV Data Analysis Automation",
+    description:
+      "An Excel VBA-based automation system designed to analyze employee sales performance and electric vehicle (EV) registration trends using relational databases, SQL queries, and automated reporting workflows.",
+    technologies: ["Excel VBA", "SQL", "Microsoft Access", "Python"],
+    features: [
+      "Excel VBA automation with Access database",
+      "SQL queries across 8 interconnected tables",
+      "Interactive VBA UserForms",
+      "Processed 190,000+ EV records",
+      "Automated PivotTables & charts",
+      "Word report generation",
+    ],
+  },
+  {
+    title: "Patient Portal & Doctor Portal System",
+    description:
+      "A Salesforce Experience Cloud application designed to manage interactions between patients, doctors, and healthcare administrators through a structured CRM system.",
+    technologies: ["Salesforce", "Apex", "SOQL", "LWC"],
+    features: [
+      "Lightning Web Components frontend",
+      "Apex controllers & SOQL queries",
+      "Custom Salesforce objects",
+      "Dynamic appointment booking",
+      "Salesforce Flows automation",
+      "Healthcare dashboards & reports",
+    ],
+  },
+  {
     title: "Personal Portfolio Website",
     description:
       "A modern, responsive portfolio website built with a terminal-inspired developer aesthetic. Features dark/light mode support, smooth animations, and a clean design.",
     technologies: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
     features: [
-      "Terminal-inspired UI",
+      "Terminal-inspired UI design",
       "Dark/light mode support",
-      "Responsive design",
+      "Fully responsive layout",
       "Smooth animations",
+      "GitHub Pages compatible",
+      "Static site export",
+    ],
+  },
+  {
+    title: "Internship Market Analyzer",
+    description:
+      "A full-stack data analytics platform that processes real-world LinkedIn internship job posting data to generate insights on hiring trends, company activity, and market demand.",
+    technologies: ["Python", "Pandas", "Data Analysis", "Visualization"],
+    features: [
+      "LinkedIn dataset processing",
+      "Data cleaning with Pandas",
+      "Exploratory Data Analysis (EDA)",
+      "Interactive dashboards",
+      "Market trend insights",
+      "Business intelligence reporting",
     ],
   },
 ]
