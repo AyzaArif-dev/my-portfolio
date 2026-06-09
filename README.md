@@ -84,3 +84,6 @@ Wilfrid Laurier University
 
 LinkedIn: www.linkedin.com/in/ayza-arif-rahim-a0379a2bb
 
+## Portfolio Link
+https://ayzaarif-dev.github.io/my-portfolio/
+
